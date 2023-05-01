@@ -1,6 +1,6 @@
-<p align="center"> ## project-documentation
+<h1 align="center">Tic-Tac-Toe</h1>
 
-</p>
+
 
 
 
@@ -49,9 +49,9 @@ What things you need to install the software and how to install them.
 
 
 ## 🎈 Development <a name="development"></a>
-1.We can run the game one player can be enter manually and another we can enter rand() method.
-2.We can connect the progarm to visualize by using the java swing.
-3.We can visualize the output in the console by creating the design file where we can show the output.
+1. We can run the game one player can be enter manually and another we can enter rand() method.
+2. We can connect the progarm to visualize by using the java swing.
+3. We can visualize the output in the console by creating the design file where we can show the output.
 
 
 
