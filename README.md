@@ -1,4 +1,4 @@
-<p align="center"> # project-documentation
+<p align="center"> ## project-documentation
 
 </p>
 
@@ -14,7 +14,7 @@
 
 ## 📝 Table of Contents
 - [About](#about)
-- [Usage-and-Development](#usage and development)
+- [Development](#development)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
@@ -48,7 +48,7 @@ What things you need to install the software and how to install them.
 
 
 
-## 🎈 Usage and Development <a name="usage and development"></a>
+## 🎈 Development <a name="development"></a>
 1.We can run the game one player can be enter manually and another we can enter rand() method.
 2.We can connect the progarm to visualize by using the java swing.
 3.We can visualize the output in the console by creating the design file where we can show the output.
