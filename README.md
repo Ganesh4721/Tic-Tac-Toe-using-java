@@ -15,7 +15,7 @@
 ## 📝 Table of Contents
 - [About](#about)
 - [Development](#development)
-- [Authors](#authors)
+- [Built Using](#authors)
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
@@ -63,6 +63,5 @@ What things you need to install the software and how to install them.
 
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- References from different Websites.
+- Mentor Support.
