@@ -41,7 +41,7 @@ What things you need to install the software and how to install them.
 5. Rectify the Errors and save the code.
 ```
 <p>
-<img width=200px height=200px src="./">
+<img width=200px height=200px src="/Images/Image1.jpg">
 </p>
 
 
