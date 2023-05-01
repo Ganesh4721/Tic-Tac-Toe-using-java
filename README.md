@@ -1,4 +1,4 @@
-<h1 align="center">Tic-Tac-Toe</h1>
+<h1 align="center">PROJECT DOCUMENTATION</h1>
 
 
 
@@ -41,7 +41,7 @@ What things you need to install the software and how to install them.
 5. Rectify the Errors and save the code.
 ```
 <p>
-<img width=200px height=200px src="/Images/Image1.jpg">
+<img width=500px height=500px src="/Images/Image1.jpg">
 </p>
 
 
